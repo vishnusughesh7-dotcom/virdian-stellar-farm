@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+# VIRDIAN - Learn Farming, Explore Space Data
 
-## Project info
+An educational farming simulation game that bridges space science and sustainable agriculture. Developed by Terra_Bytes.
 
-**URL**: https://lovable.dev/projects/cb6be20a-afda-4cf2-a948-aa8781e8c999
+## About
 
-## How can I edit this code?
+VIRDIAN combines farming gameplay with real NASA Earth observation data to teach players about:
+- Climate science and weather patterns
+- Sustainable agriculture practices
+- Data-driven decision making
+- Resource management
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- 🌱 **Interactive Farming Simulation** - Manage crops, resources, and livestock
+- 🛰️ **Real NASA Data** - Use actual satellite observations for farming decisions
+- 🎮 **Mission-Based Gameplay** - Complete challenges across diverse climate scenarios
+- 🏆 **Achievement System** - Earn badges and unlock new technologies
+- 📚 **Educational Content** - Learn about climate, agriculture, and space data
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cb6be20a-afda-4cf2-a948-aa8781e8c999) and start prompting.
+## Technology Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+Built with:
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn-ui components
 
-**Use your preferred IDE**
+## Project Links
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Lovable Project**: https://lovable.dev/projects/cb6be20a-afda-4cf2-a948-aa8781e8c999
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Development
 
-Follow these steps:
+### Prerequisites
+- Node.js & npm ([install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+
+### Getting Started
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Editing Options
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. **Use Lovable** - Visit the [Lovable Project](https://lovable.dev/projects/cb6be20a-afda-4cf2-a948-aa8781e8c999) and start prompting
+2. **Use your IDE** - Clone locally and push changes
+3. **GitHub Codespaces** - Develop directly in your browser
+4. **Edit on GitHub** - Make quick changes directly on GitHub
 
-**Use GitHub Codespaces**
+## Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Simply open [Lovable](https://lovable.dev/projects/cb6be20a-afda-4cf2-a948-aa8781e8c999) and click on Share → Publish.
 
-## What technologies are used for this project?
+## Custom Domain
 
-This project is built with:
+Connect your domain via Project > Settings > Domains. Read more: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Team Terra_Bytes
 
-## How can I deploy this project?
+Made with 💚 by Terra_Bytes - bridging space and Earth through gaming.
 
-Simply open [Lovable](https://lovable.dev/projects/cb6be20a-afda-4cf2-a948-aa8781e8c999) and click on Share -> Publish.
+## Credits
 
-## Can I connect a custom domain to my Lovable project?
+- NASA Open Data
+- Educational resources from NASA Earth Science Education
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Play. Learn. Grow smarter with NASA data.**
